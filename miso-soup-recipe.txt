@@ -1,0 +1,11 @@
+Ingredients:
+ - miso
+ - dashi
+ - water
+ - seaweed(wakame)
+ - tofu
+
+Directions:
+  1. Boil water
+  2. Put dashi in the water
+  3. put seaweed, tofu and miso in the water
